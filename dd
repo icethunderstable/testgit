@@ -1,0 +1,3 @@
+          <td><div id="list1"><img src="img/c2.png" width="70" height="70" align="center"> </div></td>
+          <td><div id="list2"><canvas id="myCanvas" width="10" height="10"style="border:10px solid black;">Your browser does not support the canvas element.</canvas><script>var c=document.getElementById("myCanvas");var ctx=c.getContext("2d");ctx.fillStyle="black";ctx.fillRect(0,0,150,75);</script></div></td>
+          <td><img src="img/c2.png" width="70" height="70" align="center"></td> 
